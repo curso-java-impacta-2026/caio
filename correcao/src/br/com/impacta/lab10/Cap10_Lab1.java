@@ -1,5 +1,6 @@
 package br.com.impacta.lab10;
 
+
 public class Cap10_Lab1 {
 
 	public static void main(String[] args) {
