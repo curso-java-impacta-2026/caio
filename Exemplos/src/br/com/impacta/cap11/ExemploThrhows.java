@@ -4,6 +4,8 @@ public class ExemploThrhows {
 	   
 	
 	  public void metodo1() throws Exception {
+		  
+		  
 	       
 		  try {
 	            metodo2();
