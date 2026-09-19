@@ -1,0 +1,5 @@
+module:prateleiraDigital
+br.com.impacta.prateleiradigital.controle
+br.com.impacta.prateleiradigital.negocio
+br.com.impacta.prateleiradigital.persistencia
+br.com.impacta.prateleiradigital.testes

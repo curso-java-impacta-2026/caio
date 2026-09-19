@@ -1,9 +1,8 @@
 package br.com.impacta.cap11;
 
-import java.util.Scanner;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.Scanner;
 
 public class ExercicioGravacao {
 
@@ -24,7 +23,7 @@ public class ExercicioGravacao {
 			System.out.println("Digite uma frase qualquer !");
 			fraseQualquer = scan.nextLine();
 			
-			writer = new PrintWriter("C:\\doc1.txt");
+			writer = new PrintWriter("c/sala205/caio/doc1.txt");
 			writer.println(fraseQualquer);
 			writer.close();
 			
@@ -37,8 +36,6 @@ public class ExercicioGravacao {
 			scan.close();
 		}
 			
-			
-		
 		
 		
 	}
